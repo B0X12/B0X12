@@ -1,16 +1,36 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FFFEFF,100:D7FFFE&fontColor=ffffff&height=220&fontAlign=80&fontAlignY=35&text=B0X12%20&desc=Kim%20EunBi%20&descAlign=87&descAlignY=55&animation=twinkling)
 
-<!--
-**B0X12/B0X12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+<h2> sᴛᴀᴄᴋ</h2>
+-ㅤ◦ㅤ-
 
-Here are some ideas to get you started:
+🗄 ʙᴀᴄᴋᴇɴᴅ <br/>
+![Java 17](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=buffer&logoColor=white)
+<br/>
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![QueryDsl](https://img.shields.io/badge/QueryDsl-0769AD?style=flat-square)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗳 ᴅevᴏᴘs <br/>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<br/>
+
+🔗 ꜱᴄᴍ <br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+💻 ᴏꜱ <br/>
+![Window](https://img.shields.io/badge/Window_OS-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Mac OS](https://img.shields.io/badge/Mac_OS-000000?style=flat-square&logo=macos&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
+</div>
