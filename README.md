@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FFFEFF,100:D7FFFE&fontColor=ffffff&height=220&fontAlign=80&fontAlignY=35&text=B0X12%20&desc=Kim%20EunBi%20&descAlign=87&descAlignY=55&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:0f0c29,100:24243e&fontColor=ffffff&height=220&fontAlign=80&fontAlignY=35&text=B0X12%20&desc=Kim%20EunBi%20&descAlign=87&descAlignY=55&animation=twinkling)
 
 <div align=center>
 <h2> sᴛᴀᴄᴋ</h2>
+
+<br/>
 -ㅤ◦ㅤ-
+<br/>
 
 🗄 ʙᴀᴄᴋᴇɴᴅ <br/>
 ![Java 17](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
@@ -12,6 +15,8 @@
 <br/>
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![QueryDsl](https://img.shields.io/badge/QueryDsl-0769AD?style=flat-square)
+<br/>
+
 <br/>
 
 🗳 ᴅevᴏᴘs <br/>
@@ -25,8 +30,12 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 <br/>
 
+<br/>
+
 🔗 ꜱᴄᴍ <br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br/>
 
 💻 ᴏꜱ <br/>
 ![Window](https://img.shields.io/badge/Window_OS-0078D4?style=flat-square&logo=windows&logoColor=white)
