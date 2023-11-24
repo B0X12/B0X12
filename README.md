@@ -1,11 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:0f0c29,100:24243e&fontColor=ffffff&height=220&fontAlign=80&fontAlignY=35&text=B0X12%20&desc=Kim%20EunBi%20&descAlign=87&descAlignY=55&animation=twinkling)
-
-<div align=center>
-<h2> sᴛᴀᴄᴋ</h2>
-
-<br/>
--ㅤ◦ㅤ-
-<br/><br/>
+<!--<div align=center>-->
 
 🗄 ʙᴀᴄᴋᴇɴᴅ <br/>
 ![Java 17](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
