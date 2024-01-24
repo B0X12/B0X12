@@ -1,6 +1,14 @@
-<!--<div align=center>-->
+<!--
+<div align=center>
+<h3> 🍄 </h3>
+안녕하세요, Java/Spring 백엔드 개발자 <b>김은비</b>입니다.
+</div>
 
-🗄 ʙᴀᴄᴋᴇɴᴅ <br/>
+<br/>
+-->
+
+### 🗄 ʙᴀᴄᴋᴇɴᴅ <br/>
+
 ![Java 17](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
@@ -12,7 +20,8 @@
 
 <br/>
 
-🗳 ᴅevᴏᴘs <br/>
+### 🗳 ᴅevᴏᴘs <br/>
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <br/>
@@ -25,14 +34,14 @@
 
 <br/>
 
-🔗 ꜱᴄᴍ <br/>
+### 🔗 ꜱᴄᴍ <br/>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br/>
 
-💻 ᴏꜱ <br/>
+### 💻 ᴏꜱ <br/>
+
 ![Window](https://img.shields.io/badge/Window_OS-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac_OS-000000?style=flat-square&logo=macos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-
-</div>
