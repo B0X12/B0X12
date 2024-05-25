@@ -16,6 +16,7 @@
 <br/>
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![QueryDsl](https://img.shields.io/badge/QueryDsl-0769AD?style=flat-square)
+![MyBatis](https://img.shields.io/badge/MyBatis-B2A41F?style=flat-square&logo=mybatis&logoColor=white)
 <br/>
 
 <br/>
@@ -24,6 +25,7 @@
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 <br/>
 ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
