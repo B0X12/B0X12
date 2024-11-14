@@ -47,3 +47,13 @@
 ![Window](https://img.shields.io/badge/Window_OS-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac_OS-000000?style=flat-square&logo=macos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/B0X12"
+  width="600"
+  height="300"
+/>
+</a>
