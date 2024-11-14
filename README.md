@@ -48,7 +48,7 @@
 ![Mac OS](https://img.shields.io/badge/Mac_OS-000000?style=flat-square&logo=macos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
